@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnablersOfSweden", "EnablersOfSweden\EnablersOfSweden.csproj", "{542A5829-36DA-4771-95D4-E867276672DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnablersOfSweden.Tests", "EnablersOfSweden.Tests\EnablersOfSweden.Tests.csproj", "{EF5C2C8B-C35F-4915-92C9-64D55CFB904D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542A5829-36DA-4771-95D4-E867276672DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542A5829-36DA-4771-95D4-E867276672DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542A5829-36DA-4771-95D4-E867276672DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542A5829-36DA-4771-95D4-E867276672DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5C2C8B-C35F-4915-92C9-64D55CFB904D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5C2C8B-C35F-4915-92C9-64D55CFB904D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5C2C8B-C35F-4915-92C9-64D55CFB904D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5C2C8B-C35F-4915-92C9-64D55CFB904D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A0F78C-0379-45C1-9F32-72ED009F4C37}
+	EndGlobalSection
+EndGlobal
